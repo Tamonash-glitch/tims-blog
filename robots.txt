@@ -1,1 +1,1 @@
-Sitemap: https://tvhahn.github.io/tims-blog/sitemap.xml
+Sitemap: https://www.tvhahn.com/sitemap.xml
